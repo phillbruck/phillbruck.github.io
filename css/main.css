@@ -1,5 +1,9 @@
 body {
-  background-color: gray;
+  background-color: rgb(197, 209, 213);
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+}
+
+h1 {
+  font-family: 'Exo', sans-serif;
 }
