@@ -1,9 +1,17 @@
 body {
-  background-color: rgb(197, 209, 213);
+  background-color: gray;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
 
-h1 {
-  font-family: 'Exo', sans-serif;
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa-linkedin {
+  color: black;
 }
