@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(202, 227, 226);
+  background-color: rgb(231, 231, 231);
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 
@@ -28,5 +28,6 @@ ul {
 
 .headshot {
   height: 508px;
-  width:465px;
+  width:355px;
+  border-radius: 15px;
 }
