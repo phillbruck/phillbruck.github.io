@@ -24,5 +24,9 @@ ul {
 
 .inline {
   display: inline-block;
-  
+}
+
+.headshot {
+  height: 508px;
+  width:465px;
 }
