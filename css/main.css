@@ -11,3 +11,7 @@ h1 {
 .fa-linkedin {
    color: blue;
  }
+
+.main-list {
+  list-style-type: none;
+}
