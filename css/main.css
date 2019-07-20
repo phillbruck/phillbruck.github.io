@@ -2,14 +2,20 @@ body {
   background-color: gray;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+
 }
 
 h1 {
    font-family: 'Exo', sans-serif;
+   margin-left: 42px;
  }
 
 .fa-linkedin {
-   color: cornflowerblue;
+   color: blue;
+ }
+
+ .fa-instagram {
+   color: purple;
  }
 
 ul {
