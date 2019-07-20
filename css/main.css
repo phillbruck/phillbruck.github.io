@@ -17,7 +17,7 @@ body {
 h1 {
    font-family: 'Exo', sans-serif;
    margin-left: auto;
-   color: rgb(69, 69, 69);
+   color: rgb(89, 89, 89);
 }
 
 .fab {
@@ -49,4 +49,8 @@ ul {
   height: 406px;
   width:284px;
   border-radius: 15px;
+}
+
+.p-about {
+  color: black;
 }
