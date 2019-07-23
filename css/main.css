@@ -16,7 +16,7 @@ body {
 
 h1 {
    font-family: 'Exo', sans-serif;
-   font-weight: bold;
+   font-weight: 300;
    margin-left: auto;
    letter-spacing: 0.5em;
    color: rgb(89, 89, 89);
